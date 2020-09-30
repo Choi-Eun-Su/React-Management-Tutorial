@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Management
+엄마 프로그램 만들어주기 위해서 하고 있는 React, Node, MongoDB 공부
+
+
 ## Available Scripts
 
 In the project directory, you can run:
